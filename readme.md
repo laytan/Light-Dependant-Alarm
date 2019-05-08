@@ -21,6 +21,15 @@ An alarm that turns off when the lights are turned on.
 * [Arduino Uno](https://aliexpress.com/item/high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html?spm=a2g0s.9042311.0.0.27424c4dueZN5i)
 * [Breadboard](https://aliexpress.com/item/1-Pcs-New-400-Tie-Points-Solderless-PCB-Breadboard-Mini-Universal-Test-Protoboard-DIY-Bread-Board/32523562738.html?spm=a2g0s.9042311.0.0.27424c4dueZN5i)
 
+## Default pins
+
+* LDR Module: Digital 4
+* Left button: Digital 13
+* Middle button: Digital 12
+* Right button: Digital 9
+* Piezo Buzzer: Digital 10
+* OLED 0.96 inch LCD display: SCL & SDA
+
 ## Pictures
 
 ### Front view
